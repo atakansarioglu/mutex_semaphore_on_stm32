@@ -1,4 +1,4 @@
-# Semaphore and Mutex on ARM Cortex-M
+# Semaphore and Mutex on ARM Cortex-M C++11
 Demo project for Semaphore and Mutex implementations on ARM Cortex-M
 
 Tutorial: http://www.atakansarioglu.com/semaphore-mutex-arm-cortex-m-implementation-cpp/
